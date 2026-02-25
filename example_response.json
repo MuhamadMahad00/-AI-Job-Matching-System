@@ -1,0 +1,35 @@
+{
+    "top_jobs": [
+        {
+            "job_id": 1,
+            "title": "Senior Python Developer",
+            "location": "Remote",
+            "match_percentage": 92.5,
+            "details": {
+                "total_score": 92.5,
+                "semantic_score": 95.0,
+                "skill_match": 85.0,
+                "missing_skills": [
+                    "Redis",
+                    "AWS"
+                ]
+            }
+        },
+        {
+            "job_id": 2,
+            "title": "Machine Learning Engineer",
+            "location": "New York, USA",
+            "match_percentage": 78.3,
+            "details": {
+                "total_score": 78.3,
+                "semantic_score": 80.0,
+                "skill_match": 60.0,
+                "missing_skills": [
+                    "Kubernetes",
+                    "MLOps"
+                ]
+            }
+        }
+    ],
+    "career_report": "# Career Analysis Report\n\n## Executive Summary\nThe candidate shows strong proficiency in Python backend development...\n\n## Top Job Fits\n1. **Senior Python Developer**: High alignment with core Python skills...\n\n## Learning Roadmap\n- **Month 1**: Master AWS core services..."
+}
